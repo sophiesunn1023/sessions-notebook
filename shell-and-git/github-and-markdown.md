@@ -9,6 +9,7 @@
 
 1. make a new branch under main branch
 2. make the change in the relevant file and remember to save
-3. commit the change, and push it to the remote (origin branch)
-4. go to the github page, merge the change and then delete the branch
-5. back to the terminal, switch to the main branch, pull from origin
+3. git add and commit the change
+4. push it to the remote (origin branch)
+5. go to the github page, merge the change and then delete the branch
+6. back to the terminal, switch to the main branch, pull from origin
